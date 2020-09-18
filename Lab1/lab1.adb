@@ -3,7 +3,6 @@
 --  F1: D = (SORT(A + B) + C) *(MA*ME)
 --  F2: ML = SORT(MF + MG*MH)
 --  F3: T = (O + P)*(MP * MS)
---  Korinenko I. IO-83
 --  Date 30 09 2020
 -------------------------------------
 with data;
