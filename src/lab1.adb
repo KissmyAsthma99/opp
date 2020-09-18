@@ -1,5 +1,6 @@
 -------------------------------------
 --  Laboratory work #1
+--  Variants: 15;23;03
 --  F1: d = MAX((A + B + C) *(MA*ME))
 --  F2: q = MAX(MH * MK - ML)
 --  F3: O = SORT(P)*(MR*MT)
