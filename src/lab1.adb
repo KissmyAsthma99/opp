@@ -3,7 +3,6 @@
 --  F1: d = MAX((A + B + C) *(MA*ME))
 --  F2: q = MAX(MH * MK - ML)
 --  F3: O = SORT(P)*(MR*MT)
---  Korinenko I. IO-83
 --  Date 16 09 2020
 -------------------------------------
 with data;
