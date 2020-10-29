@@ -5,7 +5,7 @@
 *  F3: T = (O + P)*(MP * MS)
 *  Date 12 10 2020
 **/
-public class Lab2  extends Thread {
+public class Lab2{
     public static void main(String[] args) {
         new Lab2().start();
     }
