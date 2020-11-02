@@ -3,7 +3,7 @@
 --  F1: D = (SORT(A + B) + C) *(MA*ME)
 --  F2: ML = SORT(MF + MG*MH)
 --  F3: T = (O + P)*(MP * MS)
---  Date 30 09 2020
+--  Date 30.09.2020
 -------------------------------------
 with data;
 with Ada.Integer_Text_IO, Ada.Text_IO;
