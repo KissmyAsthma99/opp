@@ -11,7 +11,7 @@ public class Lab2{
     }
     public void run() {
         Data data = new Data(4);
-        Func1 T1 = new Func1("F1", 5, data);
+        Func1 T1 = new Func1("F1", 4, data);
         Func2 T2 = new Func2("F2", 1, data);
         Func3 T3 = new Func3("F3", 10, data);
         T1.start();
