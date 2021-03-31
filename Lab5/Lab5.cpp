@@ -129,6 +129,6 @@ void F3() {
 		delete[] MP[i];
 		delete[] MS[i];
 	}
-	delete[] T;
+	delete[] T; 
 	std::cout << "F3 ended.\n";
 }
