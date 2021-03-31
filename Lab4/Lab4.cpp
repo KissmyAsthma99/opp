@@ -7,7 +7,7 @@
 #include <iostream>
 #include <windows.h>
 #include "Data.h"
-Data data = Data(2);
+Data data = Data(2); 
 void F1();
 void F2();
 void F3();
