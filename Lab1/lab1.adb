@@ -93,7 +93,6 @@ begin
    New_Line;
    Put_Line("T2: ML = ");
    Matrix_Output(A => ML);
-   New_Line;
    Put_Line("Task T2 finished.");
 
    New_Line;
