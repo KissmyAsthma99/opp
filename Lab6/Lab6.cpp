@@ -109,7 +109,7 @@ void F2() {
 	delete[] ML;
 	std::cout << "F2 ended.\n";
 }
-void F3() {
+void F3() { 
 	std::cout << "F3 started.\n" << std::endl;
 	int n = data.getN();
 	int* O = new int[n];
