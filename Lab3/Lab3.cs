@@ -14,7 +14,6 @@ namespace lab3
         public static object locker = new object();
         public static void Main(string[] args)
         {
-         
          Thread MainThread = new Thread(new Lab3().Run);
          MainThread.Start();
          MainThread.Priority = ThreadPriority.Normal;
