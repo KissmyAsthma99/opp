@@ -6,7 +6,7 @@ Cled at: 2021-05-20 14:41
 1. -- RGR. Ada 
 2. -- A = (B*C)*(Z*MM)+D*(MX*MR)
 3. -- 
-4. -- Date 
+4. -- Date
 5. with Ada.Integer_Text_IO, Ada.Text_IO;
 6. use Ada.Integer_Text_IO, Ada.Text_IO;
 7. procedure Lab1 is
