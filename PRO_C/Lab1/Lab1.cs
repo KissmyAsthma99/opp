@@ -1,7 +1,7 @@
 /* -- Lab #1. C#
  * -- Z = (B*X)*(d*X + R*(MZ*MR))
  * -- 
- *  -- Date 
+ *  -- Date
  */
 using System;
 using System.Threading;
