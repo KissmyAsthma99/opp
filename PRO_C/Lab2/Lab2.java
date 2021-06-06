@@ -1,7 +1,7 @@
 /** -- Lab #2. Java
  * -- MR= MB*(MC*MM)*d + min(Z)*MC
  * -- 
- *  -- Date 
+ *  -- Date
  */
 public class Lab2{
     public static int N = 2400;
