@@ -1,7 +1,7 @@
 /**-- Lab #3. OpenMP
  * -- MX= (B*Z)*(MZ*MM) - (MR*MC)*d
  * -- 
- * -- Date 
+ * -- Date
  */
 #include <omp.h>
 #include "Data.h"
